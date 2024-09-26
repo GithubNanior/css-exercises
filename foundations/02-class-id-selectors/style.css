@@ -1,0 +1,20 @@
+.red {
+    background-color: indianred;
+    font-size: larger;
+}
+
+.large-text {
+    font-size: x-large;
+}
+
+#cooler-text {
+    font-family: 'Verdana' 'DejaVu Sans' 'sans-serif';
+    font-size: xx-large;
+    font-weight: bolder;
+    color: blue;
+}
+
+#cool-text {
+    font-family: 'Verdana' 'DejaVu Sans' 'sans-serif';
+    font-weight: bold;
+}
