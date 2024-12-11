@@ -5,19 +5,22 @@ html {
 }
 
 .container {
-  text-align: center;
+  box-sizing: border-box;
   height: 100%;
   padding: 16px;
-  box-sizing: border-box;
+  
+  text-align: center;
 }
 
 .container div {
   padding: 15px;
+  
+  border-radius: 15px;
+  color: white;
+
   font-size: 32px;
   font-family: Helvetica;
   font-weight: bold;
-  color: white;
-  border-radius: 15px;
 }
 
 .header {
@@ -41,8 +44,9 @@ html {
 }
 
 .article p {
+  color: white;
+
+  text-align: left;
   font-size: 18px;
   font-family: sans-serif;
-  color: white;
-  text-align: left;
 }
